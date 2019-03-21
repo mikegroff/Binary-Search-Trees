@@ -1,0 +1,8 @@
+In-order Traversal: (08/08/1450) Thoreau, Perceval (05/19/1960) Grabb, Magdeleine Corriander (04/22/1961) St-Merrein, Cada
+
+Pre-order Traversal: (04/22/1961) St-Merrein, Cada (08/08/1450) Thoreau, Perceval (05/19/1960) Grabb, Magdeleine Corriander
+
+Post-order Traversal: (05/19/1960) Grabb, Magdeleine Corriander (08/08/1450) Thoreau, Perceval (04/22/1961) St-Merrein, Cada
+
+Hooray!
+In-order Traversal:

@@ -1,0 +1,16 @@
+Inserting . . . -1.5
+Inserting . . . 2.7
+Inserting . . . 11.25
+Inserting . . . 1.111111111111111E19
+Inserting . . . -1111110.1
+Original list: 
+In-order Traversal: -1111110.1 -1.5 2.7 11.25 1.111111111111111E19
+Pre-order Traversal: -1.5 -1111110.1 2.7 11.25 1.111111111111111E19
+Post-order Traversal: -1111110.1 1.111111111111111E19 11.25 2.7 -1.5
+
+Deleting . . . 2.7
+Deleting . . . 1.111111111111111E19
+Deleted-some-elements list: 
+In-order Traversal: -1111110.1 -1.5 11.25
+Pre-order Traversal: -1.5 -1111110.1 11.25
+Post-order Traversal: -1111110.1 11.25 -1.5
